@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #071F2A;
+    padding: 12px 3%;
+    display: flex;
+    gap: 40px;
+
+    .page-title {
+        color: #FFFFFF;
+        cursor: pointer;
+        &:hover {
+            color: #071F2A;
+        }
+    }
+}
+
